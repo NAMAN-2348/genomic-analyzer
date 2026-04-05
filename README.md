@@ -38,22 +38,17 @@ http://127.0.0.1:8000
 ---
 
 ## 📸 Preview
-🏠 Home Page
+### 🏠 Home Page
+![Home](screenshots/home.png)
 
+### 🧬 Input DNA Sequences
+![Input](screenshots/input.png)
 
+### ⏳ Processing
+![Loading](screenshots/load.png)
 
-
-🧬 Input DNA Sequences
-
-
-
-
-⏳ Processing
-
-
-
-
-📊 Results---
+### 📊 Results
+![Results](screenshots/result.png)
 
 ## 👨‍💻 Author
 
