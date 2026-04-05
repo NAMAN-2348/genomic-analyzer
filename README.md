@@ -52,6 +52,6 @@ http://127.0.0.1:8000
 
 ## 👨‍💻 Author
 
-Naman Arora
-Deepak Kr. Gupta
-Tushar Kr. Karn
+* Naman Arora
+* Deepak Kr. Gupta
+* Tushar Kr. Karn
